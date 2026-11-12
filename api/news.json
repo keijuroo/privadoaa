@@ -1,1 +1,16 @@
-
+{
+  "success": true,
+  "news": [
+    {
+      "id": "whitesafio-beta-test",
+      "title": "¡Ya está disponible la Beta Test!",
+      "content": "La beta test de \"WhiteSafio\" durará 7 días. Durante ese tiempo se probarán armas, armaduras, dungeons y mobs nuevos.\n\nLes recomendamos grabar clips para reportar cualquier bug que encuentren en el servidor o abrir un ticket directamente en Discord.",
+      "author": {
+        "id": "keijuroo",
+        "username": "keijuroo"
+      },
+      "createdAt": "2026-10-15T00:00:00.000Z",
+      "tags": []
+    }
+  ]
+}
