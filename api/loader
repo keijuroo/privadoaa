@@ -1,1 +1,9 @@
-
+{
+  "success": true,
+  "type": "FABRIC",
+  "minecraftVersion": "1.21.1",
+  "loaderVersion": "0.19.5",
+  "customVersion": null,
+  "file": null,
+  "updatedAt": "2026-10-15T00:00:00.000Z"
+}
